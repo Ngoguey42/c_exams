@@ -25,7 +25,7 @@ Comments: "**auteur: ok | ex00: R | ex01: R | ex02: R | ex03: R | ex04: R | ex05
 (Ø)  exercise not turned in<br>
 (R)  exercise not turned in, but *'retrovalidated'* by a subsequent exercise.<br>
 <br>
-*75/100 is required to validate an exams,<br>
-5 validated exams are required to validate the module.*
+*75/100 is required to validate an exam,<br>
+5 validated exams are required to validate the c_exams module.*
 
 <br><br><br><br><br><br><br><br>
